@@ -9,6 +9,7 @@ To run the code in your windower console, type "papers run".
 Note: Test it in your mog house first!  Don't just go out in public in the middle of Jueno to test running it! lol
 
 Here is a sample output:
+```
 Papers: ....Papers - START....
 >>>> List of LeftOver papers <<<<
 ---------- Shard Papers ----------
@@ -28,3 +29,4 @@ VTrso:NIN(2),DNC(3)
 VLeg:SMN(4),NIN,WAR(2),BRD
 ---------- End of List ----------
 Papers: ....Papers - DONE....
+```
